@@ -1,6 +1,7 @@
 # ESP32-S3 Vision Tracking Pan-Tilt Turret
 
-![Turret Hero Image](docs/images/turret-hero.jpg)
+<img width="761" height="744" alt="Screenshot 2026-10-31 173459" src="https://github.com/user-attachments/assets/332a3660-bfd9-4abc-b952-6a1df16ec8fe" />
+
 
 A custom-built two-axis pan-and-tilt tracking platform combining mechanical design,
 embedded motion control, Ethernet communication, and computer vision.
