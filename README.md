@@ -1,3 +1,4 @@
+<img width="1448" height="1086" alt="01c9fc5a-d8c0-471f-9948-7e0ce39639d4" src="https://github.com/user-attachments/assets/5efd7699-9ed8-43d5-a3b4-6642bc667fbe" />
 # ESP32-S3 Vision Tracking Pan-Tilt Turret
 
 <img width="811" height="732" alt="Screenshot 2026-11-01 170537" src="https://github.com/user-attachments/assets/38680e2d-833d-4190-8e99-febef00e9e46" />
@@ -68,8 +69,8 @@ The pulley reductions increase positioning resolution while allowing the motors 
 mounted away from the rotational axes.
 
 ## Electronics
+<img width="1448" height="1086" alt="01c9fc5a-d8c0-471f-9948-7e0ce39639d4" src="https://github.com/user-attachments/assets/87ce4120-260e-4033-85f8-845d394036ae" />
 
-![Electronics](docs/images/electronics.jpg)
 
 ### Main Components
 
