@@ -68,7 +68,8 @@ The pulley reductions increase positioning resolution while allowing the motors 
 mounted away from the rotational axes.
 
 ## Electronics
-<img width="1448" height="1086" alt="01c9fc5a-d8c0-471f-9948-7e0ce39639d4" src="https://github.com/user-attachments/assets/87ce4120-260e-4033-85f8-845d394036ae" />
+
+<img width="1447" height="1087" alt="4444" src="https://github.com/user-attachments/assets/1aee8d81-d0ab-4a54-bdd0-280e69a7c3cd" />
 
 
 ### Main Components
