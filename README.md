@@ -1,6 +1,6 @@
-# ESP32-S3 Vision Tracking Pan-Tilt Turret
 
-<img width="811" height="732" alt="Screenshot 2026-11-01 170537" src="https://github.com/user-attachments/assets/38680e2d-833d-4190-8e99-febef00e9e46" />
+# ESP32-S3 Vision Tracking Pan-Tilt Turret
+<img width="1536" height="2048" alt="2f7d8cb3-8989-4bfb-986b-2ada7bba075c" src="https://github.com/user-attachments/assets/9dd3a10e-7bd3-417a-829a-4167d98ed782" />
 
 
 
