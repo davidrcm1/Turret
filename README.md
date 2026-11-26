@@ -69,7 +69,10 @@ mounted away from the rotational axes.
 
 ## Electronics
 
-<img width="1447" height="1087" alt="4444" src="https://github.com/user-attachments/assets/1aee8d81-d0ab-4a54-bdd0-280e69a7c3cd" />
+<p align="center">
+  <img width="850" alt="Electrical Wiring Schematic" src="https://github.com/user-attachments/assets/514ca18e-693b-4d3b-9cc3-6fa2731c32c4" />
+</p>
+
 
 
 ### Main Components
