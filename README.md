@@ -47,7 +47,9 @@ handles real-time motor control.
 
 ## Mechanical Design
 
-<img width="811" height="732" alt="Screenshot 2026-11-01 170537" src="https://github.com/user-attachments/assets/38680e2d-833d-4190-8e99-febef00e9e46" />
+<p align="center">
+  <img width="550" alt="Screenshot 2026-11-01 170537" src="https://github.com/user-attachments/assets/38680e2d-833d-4190-8e99-febef00e9e46" />
+</p>
 
 The turret was designed as a two-axis pan-and-tilt mechanism.
 
